@@ -18,8 +18,6 @@ On command line, run
 `$./gradlew connectedCheck`
 ```
 
-```
-
 ## Running tests
 
 On Android Studio, take the following steps:
